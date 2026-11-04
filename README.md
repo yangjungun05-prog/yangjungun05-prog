@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="양정운. 개발자 꿈나무, AI를 통해 발전하고 싶은 사람" width="100%">
+<img src="assets/banner-sprout.png" alt="양정운. 개발자 꿈나무, AI를 통해 발전하고 싶은 사람" width="100%">
 
 안녕하세요, 양정운입니다.
 

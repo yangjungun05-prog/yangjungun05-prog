@@ -44,6 +44,26 @@
 
 <a href="https://yangjungun05-prog.github.io/doom-multi-web/"><img src="assets/doom.jpg" alt="DoomMulti 메뉴 화면" width="100%"></a>
 
+## Reclaim
+
+[저장소](https://github.com/yangjungun05-prog/reclaim)
+
+제가 매일 쓰려고 만든 맥 저장 공간 정리 앱이에요. 용량을 어디에 쓰는지 보여 주고, 지워도 되는 파일을 찾아 줍니다. 파일은 휴지통으로만 옮겨서 되돌릴 수 있어요.
+
+코드는 Claude Code로 썼어요. 움짤은 가짜 파일로 찍었습니다.
+
+<img src="https://raw.githubusercontent.com/yangjungun05-prog/reclaim/main/docs/demo.gif" alt="Reclaim 사용 화면" width="100%">
+
+## 미니 슬라이드
+
+[저장소](https://github.com/yangjungun05-prog/mini-slides)
+
+브라우저에서 바로 쓰는 슬라이드 편집기예요. `.pptx` 파일을 열어서 고친 곳만 저장할 수 있어요.
+
+화면과 단축키는 PowerPoint를 참고했고, 코드는 Claude Code로 썼어요.
+
+<img src="https://raw.githubusercontent.com/yangjungun05-prog/mini-slides/main/docs/demo.gif" alt="미니 슬라이드 사용 화면 (1.5배속)" width="100%">
+
 ## 채팅 에이전트
 
 [클라이언트](https://github.com/yangjungun05-prog/chat-agent-KDT2604-client) · [MCP 서버](https://github.com/yangjungun05-prog/chat-agent-kdt2604-server)
